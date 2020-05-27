@@ -26,7 +26,7 @@
     </tbody>
     <tr>
       <td :colspan="headDataTable.length" align="right" class="table__cell">
-        Всего элементо&nbsp;{{ total }}
+        Всего элементов&nbsp;{{ total }}
       </td>
     </tr>
   </table>
