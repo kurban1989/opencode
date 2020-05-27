@@ -1,0 +1,50 @@
+[
+  {  
+    "field": "business_name",
+    "title": "наименование организации",
+    "visible": true,
+    "sortDesc": false
+  },
+  {  
+    "field": "business_address",
+    "title": "адрес организации",
+    "visible": true,
+    "sortDesc": false
+  },
+  {  
+    "field": "business_city",
+    "title": "город организации",
+    "visible": true,
+    "sortDesc": false
+  },
+  {  
+    "field": "business_phone_number",
+    "title": "номер организации",
+    "visible": true,
+    "sortDesc": false
+  },
+  {  
+    "field": "business_postal_code",
+    "title": "почтовый индекс",
+    "visible": true,
+    "sortDesc": false
+  },
+  {  
+    "field": "inspection_date",
+    "title": "дата инспекции",
+    "visible": true,
+    "sortDesc": false
+  },
+  {  
+    "field": "inspection_description",
+    "title": "статус инспекции",
+    "visible": true,
+    "sortDesc": false
+  },
+  {  
+    "field": "inspection_type",
+    "title": "тип проведения инспекции",
+    "visible": true,
+    "sortDesc": false
+  }
+]
